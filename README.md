@@ -1,4 +1,5 @@
-Bem-vindo ao meu perfil!!!
+*Bem-vindo ao meu perfil!!!*
+
 Meu nome é Nicole Santos💟
 Estou me desenvolvendo no Java Script
 Na plataforma Alura
